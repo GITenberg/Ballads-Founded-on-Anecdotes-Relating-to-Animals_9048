@@ -1,0 +1,25 @@
+_repo: Ballads-Founded-on-Anecdotes-Relating-to-Animals_9048
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hayley, William
+    birthdate: 1745
+    deathdate: 1820
+    gutenberg_agent_id: '2939'
+    url: http://www.gutenberg.org/2009/agents/2939
+    wikipedia: http://en.wikipedia.org/wiki/William_Hayley
+description: ''
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9048'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Animals -- Poetry'
+- GITenberg
+title: Ballads, Founded on Anecdotes Relating to Animals
+url: http://www.gutenberg.org/ebooks/9048
