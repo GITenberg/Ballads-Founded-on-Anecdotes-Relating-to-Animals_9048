@@ -1,5 +1,8 @@
 _repo: Ballads-Founded-on-Anecdotes-Relating-to-Animals_9048
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hayley, William
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2939
     wikipedia: http://en.wikipedia.org/wiki/William_Hayley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9048#Ballads-Founded-on-Anecdotes-Relating-to-Animals
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
 identifiers:
